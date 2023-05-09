@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anlimah
 - 👀 I’m interested in solving daily challenges that we face at work through the use of web technologies.
-- 🌱 I’m currently learning software engineering by ALX through the Holberton School.
-- 💞️ I’m looking to collaborate on web-based projects which demand skills in back-end with `PHP` and `Python`, 
+- 🌱 I’m currently building web, mobile, and desktop apps with tools such as React, Electron, Lavarel, Django etc.
+- 💞️ I’m looking to collaborate on projects which demand skills in back-end with `PHP` and `Python`, 
 - 📫 You can reach me through LinkedIn @: https://linkedin.com/in/francis-anlimah
